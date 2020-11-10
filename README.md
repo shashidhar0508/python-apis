@@ -1,7 +1,7 @@
 # python-apis
 # Repository Information
 
-  - CRUD operation for Employee registration in DJANGO, FLASK and FASTAPI frameworks
+  - CRUD operations for Employee registration in DJANGO, FLASK and FASTAPI frameworks
   - Postgres Database
     
 
